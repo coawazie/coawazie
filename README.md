@@ -15,7 +15,7 @@
 
 - &ensp; 🎓 &ensp;<strong>Certifications</strong> <br/> <br/>
 
-<div classname="flex-row">
+<div classname="flex-col">
  <a href="https://www.credly.com/badges/d3bf7db7-9a41-4082-bab1-152ab9a5dfd2/public_url" target=blank> 
 <img src="https://user-images.githubusercontent.com/26738901/204118521-35ff51ce-39fc-465c-acfd-c3fb2c00af1c.png" width="100" height="100"> <strong>verify certification</strong></a><br/><br/><br/>
  
