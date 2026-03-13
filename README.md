@@ -15,9 +15,9 @@
 
 - &ensp; 🎓 &ensp;<strong>Certifications</strong> <br/> <br/>
 
-<div classname="flex-col">
+<div classname="flex-row">
  <a href="https://www.credly.com/badges/d3bf7db7-9a41-4082-bab1-152ab9a5dfd2/public_url" target=blank> 
-<img src="https://user-images.githubusercontent.com/26738901/204118521-35ff51ce-39fc-465c-acfd-c3fb2c00af1c.png" width="100" height="100"> <strong>verify certification</strong></a><br/><br/><br/>
+<img src="https://user-images.githubusercontent.com/26738901/204118521-35ff51ce-39fc-465c-acfd-c3fb2c00af1c.png" width="50" height="50"> <strong>verify certification</strong></a><br/><br/><br/>
  
  
 <a href="https://www.credly.com/badges/4d7cf330-97e0-4b68-909f-4213e946440a/public_url" target=blank> 
